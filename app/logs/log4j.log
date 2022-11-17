@@ -1,0 +1,132 @@
+2022-11-15 03:31:22.506 --- [INFO] Starting counting inside Class thread from 90 to 100
+2022-11-15 03:31:22.509 --- [INFO] Finishing the countdown inside Class thread from 90 to 100
+2022-11-15 03:32:48.450 --- [INFO] Created a thread "Thread-1" (ID: 13)
+2022-11-15 03:32:48.455 --- [INFO] Created a thread "Thread-2" (ID: 14)
+2022-11-15 03:32:48.455 --- [INFO] Starting counting inside Class thread from 90 to 100
+2022-11-15 03:32:48.457 --- [INFO] Finishing the countdown inside Class thread from 90 to 100
+2022-11-15 03:32:48.457 --- [INFO] Starting counting inside Runnable thread from 0 to 10
+2022-11-15 03:32:48.458 --- [INFO] Finishing the countdown inside Runnable thread from 0 to 10
+2022-11-15 03:32:57.258 --- [INFO] Created a thread "Thread-1" (ID: 13)
+2022-11-15 03:32:57.262 --- [INFO] Created a thread "Thread-2" (ID: 14)
+2022-11-15 03:32:57.263 --- [INFO] Starting counting inside Class thread from 90 to 100
+2022-11-15 03:32:57.263 --- [INFO] Starting counting inside Runnable thread from 0 to 10
+2022-11-15 03:32:57.264 --- [INFO] Finishing the countdown inside Runnable thread from 0 to 10
+2022-11-15 03:32:57.264 --- [INFO] Finishing the countdown inside Class thread from 90 to 100
+2022-11-15 03:33:04.561 --- [INFO] Created a thread "Thread-1" (ID: 13)
+2022-11-15 03:33:04.565 --- [INFO] Created a thread "Thread-2" (ID: 14)
+2022-11-15 03:33:04.566 --- [INFO] Starting counting inside Class thread from 90 to 100
+2022-11-15 03:33:04.566 --- [INFO] Starting counting inside Runnable thread from 0 to 10
+2022-11-15 03:33:04.568 --- [INFO] Finishing the countdown inside Class thread from 90 to 100
+2022-11-15 03:33:04.568 --- [INFO] Finishing the countdown inside Runnable thread from 0 to 10
+2022-11-15 03:33:14.820 --- [INFO] Created a thread "Thread-1" (ID: 13)
+2022-11-15 03:33:14.823 --- [INFO] Created a thread "Thread-2" (ID: 14)
+2022-11-15 03:33:14.824 --- [INFO] Starting counting inside Class thread from 90 to 100
+2022-11-15 03:33:14.824 --- [INFO] Starting counting inside Runnable thread from 0 to 10
+2022-11-15 03:33:14.825 --- [INFO] Finishing the countdown inside Class thread from 90 to 100
+2022-11-15 03:33:14.826 --- [INFO] Finishing the countdown inside Runnable thread from 0 to 10
+2022-11-15 03:34:16.456 --- [INFO] Created a thread "Thread-1" (ID: 13)
+2022-11-15 03:34:16.459 --- [INFO] Created a thread "Thread-2" (ID: 14)
+2022-11-15 03:34:16.461 --- [INFO] Starting counting inside Class thread from 90 to 100
+2022-11-15 03:34:16.461 --- [INFO] Starting counting inside Runnable thread from 0 to 10
+2022-11-15 03:34:16.462 --- [INFO] Finishing the countdown inside Class thread from 90 to 100
+2022-11-15 03:34:16.463 --- [INFO] Finishing the countdown inside Runnable thread from 0 to 10
+2022-11-15 03:34:20.094 --- [INFO] Created a thread "Thread-1" (ID: 13)
+2022-11-15 03:34:20.097 --- [INFO] Created a thread "Thread-2" (ID: 14)
+2022-11-15 03:34:20.097 --- [INFO] Starting counting inside Class thread from 90 to 100
+2022-11-15 03:34:20.097 --- [INFO] Starting counting inside Runnable thread from 0 to 10
+2022-11-15 03:34:20.099 --- [INFO] Finishing the countdown inside Class thread from 90 to 100
+2022-11-15 03:34:20.099 --- [INFO] Finishing the countdown inside Runnable thread from 0 to 10
+2022-11-15 03:34:23.531 --- [INFO] Created a thread "Thread-1" (ID: 13)
+2022-11-15 03:34:23.534 --- [INFO] Created a thread "Thread-2" (ID: 14)
+2022-11-15 03:34:23.534 --- [INFO] Starting counting inside Class thread from 90 to 100
+2022-11-15 03:34:23.534 --- [INFO] Starting counting inside Runnable thread from 0 to 10
+2022-11-15 03:34:23.536 --- [INFO] Finishing the countdown inside Runnable thread from 0 to 10
+2022-11-15 03:34:23.536 --- [INFO] Finishing the countdown inside Class thread from 90 to 100
+2022-11-15 03:35:31.939 --- [INFO] Starting counting inside Class thread from 90 to 100
+2022-11-15 03:35:31.941 --- [INFO] Finishing the countdown inside Class thread from 90 to 100
+2022-11-15 03:35:36.216 --- [INFO] Starting counting inside Class thread from 10 to 20
+2022-11-15 03:35:36.218 --- [INFO] Finishing the countdown inside Class thread from 10 to 20
+2022-11-15 03:35:51.435 --- [INFO] Created a thread "Thread-1" (ID: 13)
+2022-11-15 03:35:51.438 --- [INFO] Created a thread "Thread-2" (ID: 14)
+2022-11-15 03:35:51.438 --- [INFO] Starting counting inside Class thread from 90 to 100
+2022-11-15 03:35:51.439 --- [INFO] Starting counting inside Runnable thread from 0 to 10
+2022-11-15 03:35:51.440 --- [INFO] Finishing the countdown inside Class thread from 90 to 100
+2022-11-15 03:35:51.440 --- [INFO] Finishing the countdown inside Runnable thread from 0 to 10
+2022-11-15 03:36:19.525 --- [INFO] Created a thread "Thread-1" (ID: 13)
+2022-11-15 03:36:19.528 --- [INFO] Created a thread "Thread-2" (ID: 14)
+2022-11-15 03:36:19.529 --- [INFO] Starting counting inside Runnable thread from 0 to 10
+2022-11-15 03:36:19.529 --- [INFO] Starting counting inside Class thread from 90 to 100
+2022-11-15 03:36:19.531 --- [INFO] Finishing the countdown inside Runnable thread from 0 to 10
+2022-11-15 03:36:19.531 --- [INFO] Finishing the countdown inside Class thread from 90 to 100
+2022-11-15 03:36:27.469 --- [INFO] Starting counting inside Class thread from 90 to 100
+2022-11-15 03:36:27.471 --- [INFO] Finishing the countdown inside Class thread from 90 to 100
+2022-11-15 03:37:48.991 --- th_id="1" th_name="main" th_priority="5" --- [INFO] Created a thread "Thread-1" (ID: 13)
+2022-11-15 03:37:48.995 --- th_id="1" th_name="main" th_priority="5" --- [INFO] Created a thread "Thread-2" (ID: 14)
+2022-11-15 03:37:48.995 --- th_id="14" th_name="Thread-2" th_priority="5" --- [INFO] Starting counting inside Class thread from 90 to 100
+2022-11-15 03:37:48.995 --- th_id="13" th_name="Thread-1" th_priority="5" --- [INFO] Starting counting inside Runnable thread from 0 to 10
+2022-11-15 03:37:48.997 --- th_id="13" th_name="Thread-1" th_priority="5" --- [INFO] Finishing the countdown inside Runnable thread from 0 to 10
+2022-11-15 03:37:48.997 --- th_id="14" th_name="Thread-2" th_priority="5" --- [INFO] Finishing the countdown inside Class thread from 90 to 100
+2022-11-15 03:38:04.148 --- th_id="1" th_name="main" th_priority="5" --- [INFO] Created a thread "Thread-1" (ID: 16)
+2022-11-15 03:38:04.151 --- th_id="1" th_name="main" th_priority="5" --- [INFO] Created a thread "Thread-2" (ID: 17)
+2022-11-15 03:38:04.152 --- th_id="17" th_name="Thread-2" th_priority="5" --- [INFO] Starting counting inside Class thread from 90 to 100
+2022-11-15 03:38:04.152 --- th_id="16" th_name="Thread-1" th_priority="5" --- [INFO] Starting counting inside Runnable thread from 0 to 10
+2022-11-15 03:38:04.154 --- th_id="16" th_name="Thread-1" th_priority="5" --- [INFO] Finishing the countdown inside Runnable thread from 0 to 10
+2022-11-15 03:38:04.154 --- th_id="17" th_name="Thread-2" th_priority="5" --- [INFO] Finishing the countdown inside Class thread from 90 to 100
+2022-11-15 03:38:12.063 --- th_id="1" th_name="main" th_priority="5" --- [INFO] Created a thread "Thread-1" (ID: 13)
+2022-11-15 03:38:12.066 --- th_id="1" th_name="main" th_priority="5" --- [INFO] Created a thread "Thread-2" (ID: 14)
+2022-11-15 03:38:12.066 --- th_id="14" th_name="Thread-2" th_priority="5" --- [INFO] Starting counting inside Class thread from 90 to 100
+2022-11-15 03:38:12.066 --- th_id="13" th_name="Thread-1" th_priority="5" --- [INFO] Starting counting inside Runnable thread from 0 to 10
+2022-11-15 03:38:12.068 --- th_id="13" th_name="Thread-1" th_priority="5" --- [INFO] Finishing the countdown inside Runnable thread from 0 to 10
+2022-11-15 03:38:12.068 --- th_id="14" th_name="Thread-2" th_priority="5" --- [INFO] Finishing the countdown inside Class thread from 90 to 100
+2022-11-15 03:38:23.328 --- th_id="1" th_name="main" th_priority="5" --- [INFO] Created a thread "Thread-1" (ID: 13)
+2022-11-15 03:38:23.331 --- th_id="1" th_name="main" th_priority="5" --- [INFO] Created a thread "Thread-2" (ID: 14)
+2022-11-15 03:38:23.332 --- th_id="14" th_name="Thread-2" th_priority="5" --- [INFO] Starting counting inside Class thread from 90 to 100
+2022-11-15 03:38:23.332 --- th_id="13" th_name="Thread-1" th_priority="5" --- [INFO] Starting counting inside Runnable thread from 0 to 10
+2022-11-15 03:38:23.333 --- th_id="13" th_name="Thread-1" th_priority="5" --- [INFO] Finishing the countdown inside Runnable thread from 0 to 10
+2022-11-15 03:38:23.333 --- th_id="14" th_name="Thread-2" th_priority="5" --- [INFO] Finishing the countdown inside Class thread from 90 to 100
+2022-11-15 03:38:31.467 --- th_id="1" th_name="main" th_priority="5" --- [INFO] Created a thread "Thread-1" (ID: 13)
+2022-11-15 03:38:31.472 --- th_id="1" th_name="main" th_priority="5" --- [INFO] Created a thread "Thread-2" (ID: 14)
+2022-11-15 03:38:31.472 --- th_id="13" th_name="Thread-1" th_priority="5" --- [INFO] Starting counting inside Runnable thread from 0 to 10
+2022-11-15 03:38:31.472 --- th_id="14" th_name="Thread-2" th_priority="5" --- [INFO] Starting counting inside Class thread from 90 to 100
+2022-11-15 03:38:31.475 --- th_id="14" th_name="Thread-2" th_priority="5" --- [INFO] Finishing the countdown inside Class thread from 90 to 100
+2022-11-15 03:38:31.475 --- th_id="13" th_name="Thread-1" th_priority="5" --- [INFO] Finishing the countdown inside Runnable thread from 0 to 10
+2022-11-15 03:38:35.647 --- th_id="1" th_name="main" th_priority="5" --- [INFO] Created a thread "Thread-1" (ID: 13)
+2022-11-15 03:38:35.650 --- th_id="1" th_name="main" th_priority="5" --- [INFO] Created a thread "Thread-2" (ID: 14)
+2022-11-15 03:38:35.651 --- th_id="13" th_name="Thread-1" th_priority="5" --- [INFO] Starting counting inside Runnable thread from 0 to 10
+2022-11-15 03:38:35.651 --- th_id="14" th_name="Thread-2" th_priority="5" --- [INFO] Starting counting inside Class thread from 90 to 100
+2022-11-15 03:38:35.652 --- th_id="14" th_name="Thread-2" th_priority="5" --- [INFO] Finishing the countdown inside Class thread from 90 to 100
+2022-11-15 03:38:35.652 --- th_id="13" th_name="Thread-1" th_priority="5" --- [INFO] Finishing the countdown inside Runnable thread from 0 to 10
+2022-11-15 03:38:44.417 --- th_id="1" th_name="main" th_priority="5" --- [INFO] Created a thread "Thread-1" (ID: 13)
+2022-11-15 03:38:44.420 --- th_id="1" th_name="main" th_priority="5" --- [INFO] Created a thread "Thread-2" (ID: 14)
+2022-11-15 03:38:44.420 --- th_id="13" th_name="Thread-1" th_priority="5" --- [INFO] Starting counting inside Runnable thread from 0 to 10
+2022-11-15 03:38:44.420 --- th_id="14" th_name="Thread-2" th_priority="5" --- [INFO] Starting counting inside Class thread from 90 to 100
+2022-11-15 03:38:44.422 --- th_id="13" th_name="Thread-1" th_priority="5" --- [INFO] Finishing the countdown inside Runnable thread from 0 to 10
+2022-11-15 03:38:44.422 --- th_id="14" th_name="Thread-2" th_priority="5" --- [INFO] Finishing the countdown inside Class thread from 90 to 100
+2022-11-15 04:10:00.641 --- th_id="13" th_name="Thread-1" th_priority="5" --- [INFO] Starting the argument from flintstone side...
+2022-11-15 04:10:00.641 --- th_id="14" th_name="Thread-2" th_priority="5" --- [INFO] Starting the argument from fire side...
+2022-11-15 04:10:05.686 --- th_id="14" th_name="Thread-2" th_priority="5" --- [INFO] Ending the argument from fire side...
+2022-11-15 04:10:05.686 --- th_id="13" th_name="Thread-1" th_priority="5" --- [INFO] Ending the argument from flintstone side...
+2022-11-15 04:10:12.987 --- th_id="13" th_name="Thread-1" th_priority="5" --- [INFO] Starting the argument from flintstone side...
+2022-11-15 04:10:12.987 --- th_id="14" th_name="Thread-2" th_priority="5" --- [INFO] Starting the argument from fire side...
+2022-11-15 04:10:18.028 --- th_id="13" th_name="Thread-1" th_priority="5" --- [INFO] Ending the argument from flintstone side...
+2022-11-15 04:10:18.029 --- th_id="14" th_name="Thread-2" th_priority="5" --- [INFO] Ending the argument from fire side...
+2022-11-15 04:23:35.866 --- th_id="13" th_name="Thread-1" th_priority="5" --- [INFO] Starting counting inside Class thread from 10 to 20
+2022-11-15 04:23:35.868 --- th_id="13" th_name="Thread-1" th_priority="5" --- [INFO] Finishing the countdown inside Class thread from 10 to 20
+2022-11-15 05:02:24.124 --- th_id="1" th_name="main" th_priority="5" --- [INFO] Created a thread "Thread-1" (ID: 13)
+2022-11-15 05:02:24.127 --- th_id="1" th_name="main" th_priority="5" --- [INFO] Created a thread "Thread-2" (ID: 14)
+2022-11-15 05:02:24.127 --- th_id="13" th_name="Thread-1" th_priority="5" --- [INFO] Starting counting inside Runnable thread from 0 to 10
+2022-11-15 05:02:24.127 --- th_id="14" th_name="Thread-2" th_priority="5" --- [INFO] Starting counting inside Class thread from 90 to 100
+2022-11-15 05:02:24.129 --- th_id="13" th_name="Thread-1" th_priority="5" --- [INFO] Finishing the countdown inside Runnable thread from 0 to 10
+2022-11-15 05:02:24.129 --- th_id="14" th_name="Thread-2" th_priority="5" --- [INFO] Finishing the countdown inside Class thread from 90 to 100
+2022-11-15 05:06:31.646 --- th_id="13" th_name="Thread-1" th_priority="5" --- [INFO] Starting the argument from flintstone side...
+2022-11-15 05:06:31.646 --- th_id="14" th_name="Thread-2" th_priority="5" --- [INFO] Starting the argument from fire side...
+2022-11-15 05:06:36.693 --- th_id="14" th_name="Thread-2" th_priority="5" --- [INFO] Ending the argument from fire side...
+2022-11-15 05:06:36.693 --- th_id="13" th_name="Thread-1" th_priority="5" --- [INFO] Ending the argument from flintstone side...
+2022-11-15 05:07:22.746 --- th_id="13" th_name="Thread-1" th_priority="5" --- [INFO] Starting the argument from flintstone side...
+2022-11-15 05:07:22.746 --- th_id="14" th_name="Thread-2" th_priority="5" --- [INFO] Starting the argument from fire side...
+2022-11-15 05:07:27.789 --- th_id="14" th_name="Thread-2" th_priority="5" --- [INFO] Ending the argument from fire side...
+2022-11-15 05:07:27.789 --- th_id="13" th_name="Thread-1" th_priority="5" --- [INFO] Ending the argument from flintstone side...
+2022-11-15 05:07:32.690 --- th_id="13" th_name="Thread-1" th_priority="5" --- [INFO] Starting the argument from flintstone side...
+2022-11-15 05:07:32.690 --- th_id="14" th_name="Thread-2" th_priority="5" --- [INFO] Starting the argument from fire side...
+2022-11-15 05:07:37.744 --- th_id="13" th_name="Thread-1" th_priority="5" --- [INFO] Ending the argument from flintstone side...
+2022-11-15 05:07:37.744 --- th_id="14" th_name="Thread-2" th_priority="5" --- [INFO] Ending the argument from fire side...
